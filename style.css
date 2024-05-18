@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family:Verdana;
+  background:teal;
+}
+.Files {
+  width: 100%;
+  height:50%;
+  border: 5px outset blue;
+  background-color: lightblue;
+  text-align: center; 
+  font-family:Verdana;
+}
+.Images{
+  width: 100%;
+  height:50%;
+  border: 5px outset blue;
+  background-color: lightblue;
+  text-align: center;
+  position:relativ;
+  display: inline-block;
+}
+.car1{
+width:50%;
+  height:500px;
+
+
